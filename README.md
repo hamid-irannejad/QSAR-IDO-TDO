@@ -5,3 +5,5 @@ Then this file (final_total), is used for descriptor and fingerprint generation 
 Python codes for PCA and t-SNE analysis are also uploaded for the datasets.
 Python codes for machine learning and model building are also provided.
 The most important part is the "idotdo_mfp.ipynb" which is the required codes for Support Vector Classifier based on the Morgan fingerprints and to extract fragments for the selective IDO and TDO inhibitors.
+Please cite the related published article in "Computers in Biology and Medicine" if using this repo in your project:
+https://doi.org/10.1016/j.compbiomed.2024.108954
